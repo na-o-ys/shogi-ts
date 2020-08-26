@@ -1,0 +1,4 @@
+{
+  "turns": 97,
+  "sfen": "position startpos moves 7g7f 8b3b 2h7h 5a6b 7f7e 7a8b 7e7d 7c7d 8h5e 6b7b 7h7d P*7c 7d7h 9c9d 8i7g 3c3d 5e2b+ 3a2b P*7d B*5d B*5e 5d8g+ 7d7c+ 8b7c 7g8e 8g7h 6i7h 7c6d 5e4f 8c8d P*7c 7b6b B*8b 9a9b 8b9a+ 8d8e 9a8a 6d7c N*5e 4a5b 8a9b 5c5d 5e4c+ 5b4c P*7d 7c6d 9b8b 6a7b 8b8a P*7g L*7c 6d7c 7d7c+ 7b7c 7h7g P*7f 7g8g N*7e 8g8h 7e6g 5i4h 6g7i+ P*7d R*6h S*5h 7c6d 8h8g 6h7h+ 8g9f N*6f 5g5f 6f5h+ 4i5h S*5i 4h3h 7h5h N*4h S*4i 3h2h G*3h 3i3h 4i3h+ 2h1h 5h4h 1g1f N*2e 3g3f 3h2i G*2h 2i2h 4f2h S*2i 1h2i G*3h 2i1h 3h2h"
+}
